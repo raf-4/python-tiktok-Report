@@ -1,6 +1,6 @@
 ## Runi the terminal
 
-`git clone https://github.com/raf-4/python-tiktok-Report.git`
+`git clone https://github.com/raf-4/python-tiktok-Report.git`<br> 
 `ls`
 `pip install python3`
 `pip install -r requirements.txt`
