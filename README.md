@@ -6,7 +6,9 @@
 
 `cd python-tiktok-Report`
 
-`pip install python3`
+`ls`
+
+`pkg install python3`
 
 `pip install -r requirements.txt`
 
