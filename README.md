@@ -1,4 +1,9 @@
 ## Runi the terminal
+`sudo apt update`
+
+`pkg install tsu`
+
+`sudo apt install openssl`
 
 `git clone https://github.com/raf-4/python-tiktok-Report.git`<br> 
 
@@ -36,12 +41,17 @@
 - Self-harm
 - Harassment or bullying someoneIknow
 ---
+
 ##Pictures from inside the tool
 
 ![img1](https://ibb.co/5cqcQz7) 
 ![img2](https://ibb.co/DL82CMg) 
 ![img3](https://ibb.co/qJR6DSR) 
+
+
 ![img4](https://ibb.co/gMB20s8) 
 
 # Tool password 
 `RaF`
+
+# Note: It works in Terminal via root only, but if Python for Android, there is no need for root  
